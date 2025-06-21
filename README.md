@@ -40,7 +40,7 @@ Metamorph is built with a modern tech stack:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Metamorph.git
+   git clone https://github.com/sakshamojha56/Metamorph.git
    cd Metamorph
    ```
 
