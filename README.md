@@ -40,7 +40,7 @@ Metamorph is built with a modern tech stack:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/sakshamojha56/Metamorph.git
+   git clone https://github.com/sakshamojha56/Metagen.git
    cd Metamorph
    ```
 
@@ -93,7 +93,7 @@ The notebook can be found at `notebooks/metadata_generation.ipynb`.
 ## Project Structure
 
 ```
-Metamorph/
+Metagen/
 ├── app.py                  # Main Flask application
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
