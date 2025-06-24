@@ -1,8 +1,8 @@
-# Metamorph: Automated Metadata Generation System
+# Metagen: Automated Metadata Generation System
 
 ## Overview
 
-Metamorph is a comprehensive automated metadata generation system designed to enhance document discoverability, classification, and analysis. The system processes various document formats, extracts meaningful content, and generates structured metadata that can be used for better document management and insights.
+Metagen is a comprehensive automated metadata generation system designed to enhance document discoverability, classification, and analysis. The system processes various document formats, extracts meaningful content, and generates structured metadata that can be used for better document management and insights.
 
 ## Key Features
 
